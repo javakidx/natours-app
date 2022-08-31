@@ -1,0 +1,3 @@
+config-copy.env
+config.env
+node_modules/
